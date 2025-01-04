@@ -1,3 +1,9 @@
 It has been an awesome experience and I am improving on my git skills every single day.
 Its very nice to be on github.
 The exposure is top notch.
+What I’ve Learned So Far in Git:  
+- Initializing repositories  
+- Cloning repositories  
+- Creating, switching, and merging branches  
+- Staging and committing changes  
+- Pushing changes to remote repositories  
