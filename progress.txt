@@ -7,3 +7,4 @@ What I’ve Learned So Far in Git:
 - Creating, switching, and merging branches  
 - Staging and committing changes  
 - Pushing changes to remote repositories  
+- How to fork a repo
